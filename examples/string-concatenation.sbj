@@ -1,0 +1,6 @@
+যন্ত্র শুরু!() {
+    লিখ!( `num 1: ` + 1 );
+    লিখ!( `num 1 within first bracket: ` + (1) );
+    লিখ!( `num 1 + 2 not-within first brak: ` + 1 + 2 );
+    লিখ!( `num 1 + 2 within first brak: ` + (1 + 2) );
+}
