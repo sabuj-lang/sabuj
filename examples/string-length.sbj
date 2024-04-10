@@ -1,0 +1,5 @@
+// string length
+যন্ত্র শুরু!() {
+    লিখ!( `string length for "I am a string is" should be 16 and the result is: `);
+    লিখ! (`I am a string is`->আকার );
+}
