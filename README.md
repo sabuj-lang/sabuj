@@ -55,6 +55,9 @@ English version of the README: [README-EN.MD](/README-EN.md)
 }
 ```
 
+### কম্পাইলার / টুলস 
+সেগুলো শীঘ্রয় রিলিজে যুক্ত করা হবে।
+
 
 ## উদাহরণ সমূহঃ
 উদাহরণ সমূহ পাওয়া যাবে [/examples](/examples) ফোল্ডারে।
